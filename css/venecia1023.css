@@ -146,12 +146,13 @@ margin-right: 10%;
 #fiesta2 {
   width: 80%;
   height: 500px;
-  float: left;
 background-color: none;
 position: absolute;
 top: 3700px;
+left: 0;
 margin-left: 10%;
 margin-right: 10%;
+
 
 }
 
